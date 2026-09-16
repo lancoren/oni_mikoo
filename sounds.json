@@ -1,0 +1,106 @@
+{
+  "daimianju": {
+    "sounds": [
+      {
+        "name": "oni_miko:dai_mian_ju_",
+        "stream": false
+      }
+    ]
+  },
+  "gangqinzhongyin": {
+    "sounds": [
+      {
+        "name": "oni_miko:gang_qin_zhong_yin_",
+        "stream": false
+      }
+    ]
+  },
+  "heiguan": {
+    "sounds": [
+      {
+        "name": "oni_miko:hei_guan_",
+        "stream": false
+      }
+    ]
+  },
+  "jinengyinxiao": {
+    "sounds": [
+      {
+        "name": "oni_miko:ji_neng_yin_xiao_",
+        "stream": false
+      }
+    ]
+  },
+  "posui": {
+    "sounds": [
+      {
+        "name": "oni_miko:po_sui_",
+        "stream": false
+      }
+    ]
+  },
+  "shunshen": {
+    "sounds": [
+      {
+        "name": "oni_miko:shun_shen_",
+        "stream": false
+      }
+    ]
+  },
+  "xiaosheng1": {
+    "sounds": [
+      {
+        "name": "oni_miko:xiao_sheng_1",
+        "stream": false
+      }
+    ]
+  },
+  "xiaosheng2": {
+    "sounds": [
+      {
+        "name": "oni_miko:xiao_sheng_2",
+        "stream": false
+      }
+    ]
+  },
+  "xiaosheng3": {
+    "sounds": [
+      {
+        "name": "oni_miko:xiao_sheng_3",
+        "stream": false
+      }
+    ]
+  },
+  "xintiao": {
+    "sounds": [
+      {
+        "name": "oni_miko:xin_tiao_",
+        "stream": false
+      }
+    ]
+  },
+  "xuehuapingsheng": {
+    "sounds": [
+      {
+        "name": "oni_miko:xue_hua_ping_sheng_",
+        "stream": false
+      }
+    ]
+  },
+  "sound1": {
+    "sounds": [
+      {
+        "name": "oni_miko:yong_yuan_zhe_jian_shi__shi_cun_zai_de_",
+        "stream": false
+      }
+    ]
+  },
+  "zaikuaixie": {
+    "sounds": [
+      {
+        "name": "oni_miko:zai_kuai_xie_",
+        "stream": false
+      }
+    ]
+  }
+}
